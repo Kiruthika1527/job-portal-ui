@@ -21,8 +21,5 @@ A simple and responsive **Job Portal UI** built using **HTML, CSS, and JavaScrip
 
 ## Author
 
-Kirthi
-
----
-
-⭐ If you like this project, don't forget to star the repository!
+Kiruthika Ravichandran
+BE Computer Science and Engineering
